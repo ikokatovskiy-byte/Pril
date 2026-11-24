@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gallery Tile</string>
+    <string name="tile_label">Фото → отправить</string>
+</resources>
