@@ -16,6 +16,10 @@
         </activity>
 
         <activity
+            android:name=".AvatarActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".PickAndSendActivity"
             android:exported="false"
             android:excludeFromRecents="true"
